@@ -1,1 +1,1 @@
-my frist read me
+my updated readme in alx-zero_day
